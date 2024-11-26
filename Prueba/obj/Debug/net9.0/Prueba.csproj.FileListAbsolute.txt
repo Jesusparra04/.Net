@@ -1,0 +1,14 @@
+c:\Users\Aleinis Mendoza\Desktop\Prueba\bin\Debug\net9.0\Prueba.exe
+C:\Users\Aleinis Mendoza\Desktop\Prueba\bin\Debug\net9.0\Prueba.deps.json
+C:\Users\Aleinis Mendoza\Desktop\Prueba\bin\Debug\net9.0\Prueba.runtimeconfig.json
+c:\Users\Aleinis Mendoza\Desktop\Prueba\bin\Debug\net9.0\Prueba.dll
+c:\Users\Aleinis Mendoza\Desktop\Prueba\bin\Debug\net9.0\Prueba.pdb
+c:\Users\Aleinis Mendoza\Desktop\Prueba\obj\Debug\net9.0\Prueba.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\Aleinis Mendoza\Desktop\Prueba\obj\Debug\net9.0\Prueba.AssemblyInfoInputs.cache
+c:\Users\Aleinis Mendoza\Desktop\Prueba\obj\Debug\net9.0\Prueba.AssemblyInfo.cs
+c:\Users\Aleinis Mendoza\Desktop\Prueba\obj\Debug\net9.0\Prueba.csproj.CoreCompileInputs.cache
+c:\Users\Aleinis Mendoza\Desktop\Prueba\obj\Debug\net9.0\Prueba.dll
+c:\Users\Aleinis Mendoza\Desktop\Prueba\obj\Debug\net9.0\refint\Prueba.dll
+c:\Users\Aleinis Mendoza\Desktop\Prueba\obj\Debug\net9.0\Prueba.pdb
+C:\Users\Aleinis Mendoza\Desktop\Prueba\obj\Debug\net9.0\Prueba.genruntimeconfig.cache
+C:\Users\Aleinis Mendoza\Desktop\Prueba\obj\Debug\net9.0\ref\Prueba.dll
